@@ -22,3 +22,15 @@ c. Write a program to sort an array using Selection sort.
 
 <h3>Q11)</h3>
 Write a program to search an element using Binary Search algorithm.
+
+<h3>Q5)</h3>
+Write a program to implement the following operations on a CIRCULAR QUEUE using Array:
+a)	INSERT		b) DELETE		c) DISPLAY
+
+<h3>Q18)</h3>
+Write a menu driven program to perform the following operations on a single linked list.
+c.	Create
+d.	Insert
+e.	Delete
+f.	Display
+g.	Exit.
